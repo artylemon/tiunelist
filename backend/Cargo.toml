@@ -1,0 +1,10 @@
+[package]
+name = "tiunelist-backend"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+axum = "0.8.7"
+dotenvy = "0.15.7"
+sqlx = "0.8.6"
+tower = "0.5.2"
